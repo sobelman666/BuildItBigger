@@ -1,3 +1,12 @@
+# Build It Bigger Reviewer Notes
+
+The app is intended to run only in an emulator with a locally-deployed
+GCE backend.
+
+Tests for the AsyncTask are in com.udacity.gradle.builditbigger.IdlingResourceMainActivityTest.java.
+
+#### Original project instructions:
+
 # Gradle for Android and Java Final Project
 
 In this project, you will create an app with multiple flavors that uses
